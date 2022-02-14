@@ -15,6 +15,7 @@ namespace CC_Struct_Exception_Lesson14
             CompareWithReferenceEqualsMethod();
             CompareWithStaticEquals();
             CompareWithVirtualEquals();
+
         }
 
         public void CompareWithVirtualEquals()
